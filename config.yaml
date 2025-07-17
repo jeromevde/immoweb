@@ -1,0 +1,11 @@
+# Immoweb search configuration
+countries: BE
+minBedroomCount: 3
+maxBedroomCount: 3
+postalCodes: [BE-1150, 1160]
+maxPrice: 700000
+page: 1
+orderBy: newest
+propertyType: house
+language: en
+rooms: 3
